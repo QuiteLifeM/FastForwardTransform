@@ -1,0 +1,2 @@
+C:\Users\Mark\source\repos\ConsoleApplication2\x64\Debug\FastForwardTransformFourierCPP.exe
+C:\Users\Mark\source\repos\FastForwardTransform\x64\Debug\FastForwardTransformFourierCPP.exe
